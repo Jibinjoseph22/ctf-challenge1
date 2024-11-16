@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /restricted-area/
+
+# Hidden Flag
+# The flag is hidden at /restricted-area/flag.html
